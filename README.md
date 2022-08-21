@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/sourabhsing3](https://github.com/sourabhsing3)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gCqyZn9WgKifxdG2q2lBNkpD0qSUEqka/view?usp=drivesdk](https://drive.google.com/file/d/1gCqyZn9WgKifxdG2q2lBNkpD0qSUEqka/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
